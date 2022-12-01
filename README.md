@@ -43,7 +43,7 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 
 <h2> :✨: Top Languages </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criss-wang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criss-wang&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Profile Views </h2>
 <img src="https://komarev.com/ghpvc/?username=criss-wang&style=flat-round&color=blue" alt=""/>
