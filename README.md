@@ -38,7 +38,8 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 
 <h2> :fire: My Stats </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=criss-wang&theme=java-dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=criss-wang&theme=java-dark)](https://git.io/streak-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=criss-wang&show_icons=true&theme=nord&count_private=true&hide=contribs)
 
 <h2> :✨: Top Languages </h2>
 
