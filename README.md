@@ -38,6 +38,8 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 
 <h2> :rocket: Past Projects Highlights </h2>
 
+> **A summary of these projects are in the [project profile](https://criss-wang.github.io/post/projects)**
+
 - [Twitch Recommendation Engine](https://twitch-plus.herokuapp.com)
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
@@ -51,6 +53,29 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30"/>&nbsp;
   <img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/maven.svg" height="25"/>
+  
+- [CLI-nic](https://ay2021s1-cs2103-w14-4.github.io/tp/)
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
+  
+- [Code Analyzer](https://github.com/Criss-Wang/Code-Analyzer)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;
+
+- Schizophrenia Behavior Modeling
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30"/>&nbsp;
   
 - [Starlink Trajectory Visualization](https://github.com/Criss-Wang/Satellite-Tracker)      
   
@@ -66,47 +91,15 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>&nbsp;
-
-- [CLI-nic](https://ay2021s1-cs2103-w14-4.github.io/tp/)
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codecov/codecov-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
   
 - [Reinforcement Learning Implementations](https://github.com/Criss-Wang/Deep-Reinforcement-Learning-Implementations)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
-
-- Code Analyzer
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/>&nbsp;
-	- Custome coding language (SIMPLE) with custom query language (PQL)
-	- Major contributions: 
-		- Postfix string conversion for design extractor & population
-		- Program Knowledge Base (PKB) development
-		- Fast lexical token querying via Indexing and concurrency (C++ STL threads)
-- Schizophrenia Behavior Modeling
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30"/>&nbsp;
-	- Working with [MOHT](https://www.moht.com.sg) for Schizophrenia relapse prediction tool development
-	- Major contributions: 
-	  - LSTM with recurrent dropout and layer normalization
-  	- Relapse prediction model
-		  - XGBoost
-	  - Deep learning model pipeline -> deployed to AWS
   
 - MyPal
+
 - SmartMall
 
 <!-- - AppStore: A Cloud and React based App Purchase Platform -->
