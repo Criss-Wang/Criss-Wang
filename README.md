@@ -98,7 +98,7 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
   
-- MyPal
+- [MyPal](https://mypal-nus.herokuapp.com/)
 
 - SmartMall
 
