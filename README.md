@@ -38,7 +38,7 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 
 <h2> :rocket: Past Projects Highlights </h2>
 
-> **A summary of these projects are in the [project profile](https://criss-wang.github.io/post/projects)**
+> **A summary of these projects are in the [project profile](https://criss-wang.github.io/categories/Projects/)**
 
 - [Twitch Recommendation Engine](https://twitch-plus.herokuapp.com)
   
