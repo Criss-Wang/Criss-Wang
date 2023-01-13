@@ -40,7 +40,7 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 
 > **A summary of these projects are in the [project profile](https://criss-wang.github.io/categories/Projects/)**
 
-- [Twitch Recommendation Engine](https://twitch-plus.herokuapp.com)
+- [Twitch Recommendation Engine](http://44.204.231.77/)
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;
