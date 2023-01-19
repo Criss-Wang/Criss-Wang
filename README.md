@@ -53,6 +53,13 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30"/>&nbsp;
   <img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/maven.svg" height="25"/>
+
+- [AppStore-Go](https://github.com/Criss-Wang/AppStore-GO/tree/main)
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://img.icons8.com/color/480/null/elasticsearch.png" width="30" height="30"/>&nbsp;
+  
   
 - [CLI-nic](https://ay2021s1-cs2103-w14-4.github.io/tp/)
   
