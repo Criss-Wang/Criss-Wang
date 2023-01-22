@@ -11,6 +11,11 @@ I'm a Master of Science in Machine Learning student at Carnegie Mellon Universit
 - 👨‍🏫 Currently studying: **Reinforcement Learning** and **Parallel Computing**
 - [:ledger: Peronsal website & Blogs](http://criss-wang.github.io)
 
+My Long term ambition is to excel at different realms of software engineering including:
+- Web Development, especially with **scalable/highly performant/highly available/durable** backend systems
+- Low Latency systems with C++ (yes, with cpp specifically, maybe rust or go in the future)
+- Machine Learning Engineering (reading AI/ML paper is really a fun thing for me, implementing them out is even more interesting!)
+
 <h2> :hammer_and_wrench: Languages and Tools </h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>&nbsp;
