@@ -42,6 +42,26 @@ My long-term ambition is to create top-tier AI/ML solutions end-to-end which cov
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="bash" alt="bash" width="110" height="30"/>&nbsp;
 
+- [Confidence Optimal Transport](https://gitfront.io/r/user-1757701/2pGjr3LwFmhb/FOT-OOD/)
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="30" height="30"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="60" height="30"/>&nbsp;
+  <img src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" width="60" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/22125274?s=280&v=4" width="30" height="30"/>&nbsp;
+  <img src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2022/07/AWS-SageMaker-banner-img.webp" width="30" height="30"/>&nbsp;
+
+- [MP3 Converter](https://github.com/Criss-Wang/mp3converter-microservice-kubernetes)
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png"  width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
 
 - [Twitch Recommendation Engine](https://github.com/Criss-Wang/twitch-plus)
   
