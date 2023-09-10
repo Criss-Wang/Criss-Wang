@@ -148,7 +148,7 @@ My long-term ambition is to create top-tier AI/ML solutions end-to-end which cov
   
 
 
-<h2> :hammer_and_wrench: A glossary of tech stacks </h2>
+<h2> :hammer_and_wrench: A glossary of tech stacks used </h2>
 
 |      | |
 |-----------------------|-----|
