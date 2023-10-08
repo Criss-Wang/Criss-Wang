@@ -9,7 +9,7 @@
 I'm a Master of Science in Machine Learning student at Carnegie Mellon University. I enjoy working on Computer Science challenges in the field of *full-stack web development*, *machine learning engineering* and *open-source API development*. Learning new technology and building solutions with reliability and scalability are my current goals. 
 - ⚡ Interest: Open Source | Tennis | Workout | ACG 
 - 👨‍🏫 Currently studying: **Deep Learning System** and **Distributed Computing with Microservices**
-- [:ledger: Peronsal website & Blogs](http://criss-wang.github.io)
+- [:ledger: Peronsal website & Blogs](http://criss-wang.com)
 
 My long-term ambition is to create top-tier AI/ML solutions end-to-end which cover the following aspects:
 - Efficiency, Security, Scalability, and Reliability (CAP)
