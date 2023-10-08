@@ -33,7 +33,7 @@ My long-term ambition is to create top-tier AI/ML solutions end-to-end which cov
   <img src="https://help.apiary.io/images/swagger-logo.png" width="30" height="30"/>&nbsp;
 
 
-- [Travel Planner](https://github.com/Criss-Wang/Travel-Planner)
+- [Travel Planner]([https://github.com/Criss-Wang/Travel-Planner](https://github.com/Travel-Planner-Team/backend))
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="30" height="30"/>&nbsp;
