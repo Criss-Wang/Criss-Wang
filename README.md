@@ -8,7 +8,7 @@
 
 Masters graduate (MS, Machine Learning) from Carnegie Mellon University. Passionate about building AI/ML-powered products. Proficient in deep learning model research and deployment. 
 - ⚡ Interest: Open Source | Tennis | Workout | ACG 
-- 👨‍🏫 Currently studying: **Distributed Computing with Microservices** and **Robust Agent for Code Generation**
+- 👨‍🏫 Currently studying: **Distributed Computing with Microservices** and **Robust LLM Agent for Code Generation**
 - [:ledger: Peronsal website & Blogs](http://criss-wang.com)
 
 My long-term ambition is to create highly performant AI/ML solutions which are:
