@@ -21,7 +21,7 @@ My long-term ambition is to create highly performant AI/ML solutions which are:
 
 
 
-<h2> :hammer_and_wrench: A glossary of tech stacks used </h2>
+<!-- <h2> :hammer_and_wrench: A glossary of tech stacks used </h2>
 
 |      | |
 |-----------------------|-----|
@@ -35,7 +35,7 @@ My long-term ambition is to create highly performant AI/ML solutions which are:
 | <div> CI/CD </div> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30" height="30"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="30" height="30"/>&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30"/>&nbsp;|
 
 
-
+ -->
 
 
 <h2> :fire: My Stats </h2>
